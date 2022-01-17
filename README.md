@@ -1,2 +1,2 @@
 # netflix-clone
-Projeto de estudos para desenevolvimento Front-end onde a interface do Netflix será reproduzida. 
+Projeto de estudos para desenvolvimento Front-end onde a interface do Netflix será reproduzida. 
